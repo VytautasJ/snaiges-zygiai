@@ -105,6 +105,43 @@ main {
   background: #1a3a5c;
 }
 
+#savanoriai {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+#savanoriai h2 {
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+  color: #1a3a5c;
+}
+
+.volunteer-group {
+  background: white;
+  border-radius: 10px;
+  padding: 0.8rem 1.2rem;
+  margin-bottom: 0.6rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.volunteer-group h3 {
+  font-size: 0.95rem;
+  color: #2c5f8a;
+  margin-bottom: 0.2rem;
+}
+
+.volunteer-group p {
+  font-size: 0.9rem;
+  color: #555;
+  line-height: 1.4;
+}
+
+.volunteer-group .role {
+  font-style: italic;
+  color: #7f8c8d;
+}
+
 footer {
   text-align: center;
   padding: 1.5rem;
