@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="SnaigėsŽygiai"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Kernavė — Panemunės miškas</name>
+    <desc>Rami trasa per Panemunės mišką palei Nerį</desc>
+  </metadata>
+  <trk>
+    <name>Kernavė — Panemunės miškas</name>
+    <trkseg>
+      <trkpt lat="54.8810" lon="24.8510"><ele>82</ele></trkpt>
+      <trkpt lat="54.8805" lon="24.8525"><ele>80</ele></trkpt>
+      <trkpt lat="54.8798" lon="24.8542"><ele>78</ele></trkpt>
+      <trkpt lat="54.8790" lon="24.8558"><ele>76</ele></trkpt>
+      <trkpt lat="54.8782" lon="24.8572"><ele>75</ele></trkpt>
+      <trkpt lat="54.8775" lon="24.8588"><ele>74</ele></trkpt>
+      <trkpt lat="54.8768" lon="24.8600"><ele>73</ele></trkpt>
+      <trkpt lat="54.8760" lon="24.8612"><ele>72</ele></trkpt>
+      <trkpt lat="54.8755" lon="24.8628"><ele>74</ele></trkpt>
+      <trkpt lat="54.8750" lon="24.8645"><ele>76</ele></trkpt>
+      <trkpt lat="54.8748" lon="24.8660"><ele>78</ele></trkpt>
+      <trkpt lat="54.8752" lon="24.8675"><ele>80</ele></trkpt>
+      <trkpt lat="54.8758" lon="24.8688"><ele>82</ele></trkpt>
+      <trkpt lat="54.8765" lon="24.8695"><ele>84</ele></trkpt>
+      <trkpt lat="54.8772" lon="24.8690"><ele>83</ele></trkpt>
+      <trkpt lat="54.8780" lon="24.8678"><ele>81</ele></trkpt>
+      <trkpt lat="54.8788" lon="24.8662"><ele>80</ele></trkpt>
+      <trkpt lat="54.8795" lon="24.8645"><ele>79</ele></trkpt>
+      <trkpt lat="54.8800" lon="24.8628"><ele>78</ele></trkpt>
+      <trkpt lat="54.8805" lon="24.8608"><ele>79</ele></trkpt>
+      <trkpt lat="54.8808" lon="24.8588"><ele>80</ele></trkpt>
+      <trkpt lat="54.8810" lon="24.8565"><ele>81</ele></trkpt>
+      <trkpt lat="54.8812" lon="24.8542"><ele>82</ele></trkpt>
+      <trkpt lat="54.8811" lon="24.8522"><ele>82</ele></trkpt>
+      <trkpt lat="54.8810" lon="24.8510"><ele>82</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

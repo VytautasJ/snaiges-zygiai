@@ -1,0 +1,20 @@
+[
+  {
+    "id": "kernave-baltasis-kalnas",
+    "name": "Kernavė — Baltasis kalnas",
+    "description": "Klasikinė Snaigės trasa per Baltąjį kalną. Nuostabūs vaizdai į Neries slėnį ir piliakalnius.",
+    "distance": "5.2 km",
+    "difficulty": "vidutinė",
+    "gpx": "trails/kernave-baltasis-kalnas.gpx",
+    "color": "#e74c3c"
+  },
+  {
+    "id": "kernave-panemune",
+    "name": "Kernavė — Panemunės miškas",
+    "description": "Rami trasa per Panemunės mišką palei Nerį. Tinka pradedantiesiems.",
+    "distance": "3.8 km",
+    "difficulty": "lengva",
+    "gpx": "trails/kernave-panemune.gpx",
+    "color": "#3498db"
+  }
+]

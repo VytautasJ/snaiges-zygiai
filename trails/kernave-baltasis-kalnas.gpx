@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="SnaigėsŽygiai"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Kernavė — Baltasis kalnas</name>
+    <desc>Klasikinė Snaigės trasa per Baltąjį kalną</desc>
+  </metadata>
+  <trk>
+    <name>Kernavė — Baltasis kalnas</name>
+    <trkseg>
+      <trkpt lat="54.8836" lon="24.8438"><ele>95</ele></trkpt>
+      <trkpt lat="54.8841" lon="24.8445"><ele>98</ele></trkpt>
+      <trkpt lat="54.8848" lon="24.8460"><ele>105</ele></trkpt>
+      <trkpt lat="54.8855" lon="24.8472"><ele>115</ele></trkpt>
+      <trkpt lat="54.8862" lon="24.8480"><ele>128</ele></trkpt>
+      <trkpt lat="54.8870" lon="24.8485"><ele>140</ele></trkpt>
+      <trkpt lat="54.8878" lon="24.8478"><ele>152</ele></trkpt>
+      <trkpt lat="54.8885" lon="24.8465"><ele>160</ele></trkpt>
+      <trkpt lat="54.8890" lon="24.8448"><ele>155</ele></trkpt>
+      <trkpt lat="54.8893" lon="24.8430"><ele>148</ele></trkpt>
+      <trkpt lat="54.8898" lon="24.8412"><ele>138</ele></trkpt>
+      <trkpt lat="54.8905" lon="24.8398"><ele>125</ele></trkpt>
+      <trkpt lat="54.8912" lon="24.8385"><ele>118</ele></trkpt>
+      <trkpt lat="54.8918" lon="24.8370"><ele>110</ele></trkpt>
+      <trkpt lat="54.8922" lon="24.8355"><ele>105</ele></trkpt>
+      <trkpt lat="54.8918" lon="24.8340"><ele>112</ele></trkpt>
+      <trkpt lat="54.8910" lon="24.8330"><ele>120</ele></trkpt>
+      <trkpt lat="54.8900" lon="24.8325"><ele>130</ele></trkpt>
+      <trkpt lat="54.8890" lon="24.8332"><ele>135</ele></trkpt>
+      <trkpt lat="54.8882" lon="24.8345"><ele>128</ele></trkpt>
+      <trkpt lat="54.8875" lon="24.8360"><ele>118</ele></trkpt>
+      <trkpt lat="54.8868" lon="24.8375"><ele>110</ele></trkpt>
+      <trkpt lat="54.8860" lon="24.8390"><ele>105</ele></trkpt>
+      <trkpt lat="54.8852" lon="24.8405"><ele>100</ele></trkpt>
+      <trkpt lat="54.8845" lon="24.8418"><ele>97</ele></trkpt>
+      <trkpt lat="54.8838" lon="24.8430"><ele>95</ele></trkpt>
+      <trkpt lat="54.8836" lon="24.8438"><ele>95</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
